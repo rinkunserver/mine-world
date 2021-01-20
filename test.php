@@ -15,3 +15,4 @@ if ($payload) {
 
 $_SESSION['login'] = true;
 exit;
+?>
