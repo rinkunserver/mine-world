@@ -4,9 +4,7 @@
     <meta charset="UTF-8" />
     <title>マイクラ超非公式フォーラム</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="styles/reset.min.css" />
-    <link rel="stylesheet" href="styles/style.css" />
-    <link rel="stylesheet" href="styles/header-7.css" />
+    <link rel="stylesheet" href="styles/header.css" />
   </head>
   <body>
     <!-- Header Start -->
@@ -36,6 +34,6 @@
     </header>
     <!-- Header End -->
 
-    <script src="js/header-7.js"></script>
+    <script src="style/header.js"></script>
   </body>
 </html>
