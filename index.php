@@ -30,7 +30,7 @@
           </nav>
         </div>
         <div class="site-header__end">
-          <a href="#">サインイン</a>
+          <a class="site-header__end-item" href="#">サインイン</a>
         </div>
       </div>
     </header>
