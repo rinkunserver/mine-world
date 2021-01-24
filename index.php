@@ -39,13 +39,3 @@
     <script src="js/header-7.js"></script>
 
 </html>
-   
-  </body>
-</html>
-
-<?php
-session_start();
-if(!$_SESSION['login']){
-    header('Location: login.html');
-}
-?>
