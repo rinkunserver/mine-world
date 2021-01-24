@@ -22,7 +22,6 @@
       padding-bottom: 0; } }
 @media (max-width: 659px) {
   .site-header__end {
-    color: #fff;
     padding-right: 4rem; } }
 
 @media (min-width: 660px) {
