@@ -22,7 +22,9 @@
       padding-bottom: 0; } }
 @media (max-width: 659px) {
   .site-header__end {
-    padding-right: 4rem; } }
+    padding-right: 4rem; }
+  .site-header__end-item {
+    color: #fff; }}
 
 @media (min-width: 660px) {
   .nav__wrapper {
