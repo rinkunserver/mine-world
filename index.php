@@ -10,7 +10,7 @@
   </head>
   <body>
     <!-- Header Start -->
-    <header class="site-header">
+    <header class="site-header"style=" background: url(/img/header-background.jpg);">
       <div class="wrapper site-header__wrapper">
         <div class="site-header__start">
           <a href="/" class="brand">卍マイクラ非公式卍</a>
