@@ -10,17 +10,13 @@
   </head>
   <body>
     <!-- Header Start -->
-  <!-- Header Start -->
-    <header class="site-header">
+    <header class="site-header" style=" background: url(/img/header-background.jpg);">
       <div class="wrapper site-header__wrapper">
         <div class="site-header__middle">
         </div>
         <div class="site-header__end">
-          <a class="site-header__end-item" href="#">サインイン</a>
-        </div>
       </div>
     </header>
-    <!-- Header End -->
     <header class="site-header">
       <div class="wrapper site-header__wrapper">
         <div class="site-header__start">
