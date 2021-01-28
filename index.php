@@ -14,7 +14,7 @@
       <div class="wrapper site-header__wrapper">
         <div class="site-header__middle">
                   <div class="site-header__start">
-          <a href="/" class="brand" style="font-size: 60%;">卍マイクラ非公式卍</a>
+          <a href="/" class="brand">卍マイクラ非公式卍</a>
         </div>
         </div>
         <div class="site-header__end">
