@@ -13,15 +13,15 @@
     <header class="site-header" style=" background: url(/img/header-background.jpg);">
       <div class="wrapper site-header__wrapper">
         <div class="site-header__middle">
+                  <div class="site-header__start">
+          <a href="/" class="brand">卍マイクラ非公式卍</a>
+        </div>
         </div>
         <div class="site-header__end">
       </div>
     </header>
     <header class="site-header">
       <div class="wrapper site-header__wrapper">
-        <div class="site-header__start">
-          <a href="/" class="brand">卍マイクラ非公式卍</a>
-        </div>
         <div class="site-header__middle">
           <nav class="nav">
             <button class="nav__toggle" aria-expanded="false" type="button">
